@@ -1,0 +1,40 @@
+[33mcommit 01e052a6e6c39f5e34478860a0dcf11dc2e85c11[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: lmr-byte <leahmoonmarie@gmail.com>
+Date:   Fri Dec 12 09:04:06 2025 -0600
+
+    Changes readme to be about git verison control
+
+[33mcommit c410fd85430c1c908f3c84ada1261b6f5e4ec9ba[m
+Author: lmr-byte <leahmoonmarie@gmail.com>
+Date:   Wed Dec 10 11:12:19 2025 -0600
+
+    changes to box background colour
+
+[33mcommit 667687595073c19616380fa656abf7dd97bf860b[m
+Author: Leah Reid <leahmoonmarie@gmail.com>
+Date:   Wed Dec 10 10:56:58 2025 -0600
+
+    Updated 2.0 flexbox box color
+    
+    Change box background color from purple to green
+
+[33mcommit 8c664846e2715cc6e804acb6a0496194127fc0e0[m
+Merge: 166e170 0609f59
+Author: lmr-byte <leahmoonmarie@gmail.com>
+Date:   Wed Dec 10 10:37:15 2025 -0600
+
+    Merge branch 'main' of https://github.com/lmr-byte/2.0-Flexbox-layout
+
+[33mcommit 0609f59af8f646010d4f3e425099f99f3d8f0f72[m
+Author: Leah Reid <leahmoonmarie@gmail.com>
+Date:   Wed Dec 10 09:59:56 2025 -0600
+
+    Add README for 2.0 Flexbox layout
+    
+    Flexbox layout for Frontend Now.
+
+[33mcommit 166e1707c313cd3c2ff383276126b7808a67432a[m
+Author: lmr-byte <leahmoonmarie@gmail.com>
+Date:   Wed Dec 10 09:41:59 2025 -0600
+
+    adding the proper core flexbox layout
